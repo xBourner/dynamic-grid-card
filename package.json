@@ -1,0 +1,17 @@
+{
+  "name": "dynamic-grid-card",
+  "version": "0.0.1",
+  "description": "Dynamic Grid Card for Home Assistant",
+  "type": "module",
+  "scripts": {
+    "build": "tsc && vite build"
+  },
+  "dependencies": {
+    "@mdi/js": "^7.4.47",
+    "lit": "^3.3.3"
+  },
+  "devDependencies": {
+    "typescript": "~7.0.2",
+    "vite": "^8.3.4"
+  }
+}
